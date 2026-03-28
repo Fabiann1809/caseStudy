@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/221318d6-162f-418e-a025-dd1d349a15e9
+
 # Pipeline de CI/CD — Simulador
 
 Simulador de integración y despliegue continuo construido con **Python** y **Streamlit**. Permite gestionar trabajos de compilación, ejecutar un pipeline de 5 etapas, monitorear logs en tiempo real y revertir versiones en producción.
